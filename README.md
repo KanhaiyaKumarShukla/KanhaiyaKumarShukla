@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Android, Kotlin, Data Structure and Algorithm, C++**
+- 💬 Ask me about **Android, Kotlin, Data Structures and Algorithms, C++**
 
 - 📫 How to reach me **kanhaiyashukla0.01@gmail.com**
 
