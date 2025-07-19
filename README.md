@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 🔭 I’m currently working on [Real AQI](https://github.com/KanhaiyaKumarShukla/AQI-monitoring)
+- 🔭 I’m currently working on [Findr]([https://play.google.com/store/apps/details?id=com.exa.android.reflekt])
 
 - 🌱 I’m currently learning **System Design**
 
